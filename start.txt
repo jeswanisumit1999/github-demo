@@ -1,1 +1,4 @@
 Test Git Quick start demo
+
+Adding new line -- commit 1
+Adding one more line -- commit 2
