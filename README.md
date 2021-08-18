@@ -1,9 +1,11 @@
 # github-demo
 This is the header for readme file
  
-## This is Read me File for Github - Demo
-This is usb text for the first sub topic
+## Introduction Github - Demo
+This is Project is dummy project to learn Git and Github
 
-## This is sample Text 1
+## Purpose
+This is Project is dummy project to learn Git and Github
+
 
 ## This is sample Text 2 
