@@ -1,4 +1,6 @@
 Test Git Quick start demo
-
+Adding this line for conflict
 Adding new line -- commit 1
 Adding one more line -- commit 2
+
+Adding this line for conflict
